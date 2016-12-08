@@ -1,3 +1,2 @@
-# JS Calc
-
-A JavaScript Calculator
+# CalcJS
+A JavaScript calculator
